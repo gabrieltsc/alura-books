@@ -17,3 +17,5 @@ Olá, Bem vindo ao meu projeto feito durante o curso de responsividade da Alura.
 ### Gabriel Terry
 
 ### Linkedin: https://www.linkedin.com/in/gabriel-terry-de-souza-cavalcante-1b910b1b7
+
+### Site do projeto: https://alura-books-gamma-snowy.vercel.app/
